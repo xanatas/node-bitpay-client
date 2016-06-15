@@ -1,5 +1,5 @@
 {
-  "name": "bitpay-rest",
+  "name": "bitpay-rest-xanatas",
   "preferGlobal": false,
   "version": "0.3.1",
   "author": "Gordon Hall <gordon@bitpay.com>",
@@ -30,7 +30,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/node-bitpay-client.git"
+    "url": "https://github.com/xanatas/node-bitpay-client.git"
   },
   "keywords": [
     "bitpay",
@@ -39,7 +39,7 @@
   ],
   "dependencies": {
     "async": "^0.7.0",
-    "base58-native": "~0.1.4",
+    "base58-native-x": "~0.1.5",
     "bitauth": "^0.3.1",
     "commander": "^1.3.2",
     "extend": "^1.2.1",
