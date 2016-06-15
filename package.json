@@ -1,7 +1,7 @@
 {
   "name": "bitpay-rest-xanatas",
   "preferGlobal": false,
-  "version": "0.3.1",
+  "version": "0.3.3",
   "author": "Gordon Hall <gordon@bitpay.com>",
   "description": "",
   "contributors": [
